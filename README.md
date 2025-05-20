@@ -28,8 +28,9 @@ I am proud to showcase my GitHub accomplishments.
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,html,css,bootstrap,tailwind,git,github,vscode,docker&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,html,css,bootstrap,tailwind,git,github,vscode,docker,javascript,chakraui,postman&theme=dark&perline=8" alt="Tech Stack" />
 </p>
+
 
 ## 📊 GitHub Analytics
 <div align="center">
@@ -41,7 +42,7 @@ I am proud to showcase my GitHub accomplishments.
 - 💻 **Skills**:  
   - 🛠 **Web Development**: MERN Stack (MongoDB, Express, React, Node.js)  
   - 🧠 **Backend Services**: REST APIs, scalable backend architecture  
-  - 🎨 **Frontend Tools**: HTML5, CSS3, JS, Bootstrap, Tailwind CSS , chakra-ui
+  - 🎨 **Frontend Tools**: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS , chakra-ui
   - 💡 **Other Technologies**: Python, Java, Docker, Git  
 
 - 🎯 **Interests**:  
