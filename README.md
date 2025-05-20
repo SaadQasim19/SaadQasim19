@@ -41,7 +41,7 @@ I am proud to showcase my GitHub accomplishments.
 - 💻 **Skills**:  
   - 🛠 **Web Development**: MERN Stack (MongoDB, Express, React, Node.js)  
   - 🧠 **Backend Services**: REST APIs, scalable backend architecture  
-  - 🎨 **Frontend Tools**: HTML5, CSS3, JS, Bootstrap, Tailwind CSS  
+  - 🎨 **Frontend Tools**: HTML5, CSS3, JS, Bootstrap, Tailwind CSS , chakra-ui
   - 💡 **Other Technologies**: Python, Java, Docker, Git  
 
 - 🎯 **Interests**:  
