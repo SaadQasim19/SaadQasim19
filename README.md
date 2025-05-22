@@ -28,7 +28,7 @@ I am proud to showcase my GitHub accomplishments.
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,html,css,bootstrap,tailwind,git,github,vscode,docker,javascript,chakraui,postman&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,html,css,bootstrap,tailwind,git,github,vscode,docker,javascript,mysql,postman&theme=dark&perline=8" alt="Tech Stack" />
 </p>
 
 
