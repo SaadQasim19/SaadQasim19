@@ -1,3 +1,5 @@
+ 
+</div>
 <div align="center">
   <h1 style="font-family: 'Chakra Petch', sans-serif; font-weight: 700; position: relative">
     <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+Qasim;Web+Developer;MERN+Stack+Specialist;Backend+Contributor" alt="Typing SVG" />
@@ -11,6 +13,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
 
+ <div style="margin: 30px 0;">
+    <h3 style="color: #FFD93D; margin-bottom: 15px;">📈 Contribution Activity</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadQasim19&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" width="100%" />
+  </div>
 
 ## 🏆 GitHub Achievements
 I am proud to showcase my GitHub accomplishments.
