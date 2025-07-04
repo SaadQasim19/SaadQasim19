@@ -11,12 +11,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
 
-<div align="center"> 
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=SaadQasim19&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=SaadQasim19&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_current_streak=false&hide_longest_streak=false&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0" /> 
-
-[![Saad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadQasim19&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF&area=true&area_color=7F5AF0&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 
 ## 🏆 GitHub Achievements
 I am proud to showcase my GitHub accomplishments.
