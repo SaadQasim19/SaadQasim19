@@ -23,11 +23,23 @@
   </a>
 </div>
 
-## 💻 Tech Stack
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java,bootstrap,tailwind,git,github,vscode,docker,typescript,mysql,postman&theme=dark&perline=8" alt="Tech Stack" />
-</p>
+<div align="center">
+  
+**Frontend**
+  
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql" />
+
+**Tools & Others**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+
+</div>
 
 ## 🔥 Contribution Streaks
 
