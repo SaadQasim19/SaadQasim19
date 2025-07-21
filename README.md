@@ -37,7 +37,7 @@
 
 **Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,momentjs" />
 
 </div>
 
@@ -61,7 +61,7 @@
   - MERN Stack (MongoDB, Express, React, Node.js)  
   - REST API Development, Scalable Architectures  
   - Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Chakra UI  
-  - Other: Python, Java, Docker, Git, MySQL  
+  - Other: Python, Java, Git, MySQL
 
 - 🎯 **Interests:**  
   - Building efficient, responsive full-stack applications  
@@ -69,7 +69,7 @@
   - Exploring DevOps, Microservices & Kubernetes  
 
 - 🌱 **Currently Exploring:**  
-  - Advanced Express.js Patterns  
+  - Advanced Express.js Patterns , Typescript
   - Microservices and Docker  
   - Scalable Node.js & Cloud Deployments  
 
@@ -78,14 +78,15 @@
 - Full-stack Development using MERN Stack  
 - Responsive UI/UX with modern frontend libraries  
 - REST APIs & Real-time features  
-- Scalable Backends with MongoDB, Firebase, Python, Java  
+- Scalable Backends with MongoDB,MySQL
 
 ## 🌟 Featured Projects
 
 - E-Commerce MERN Web App  
-- Admin Dashboards  
-- Realtime Chat Application  
-- REST APIs & Backend Tools  
+- Prayer-Times MERN Web App
+- Realtime Gemini Clone
+- Weather App Dashboard
+- SecureBanking System
 
 ## 📬 Connect With Me
 
