@@ -60,18 +60,17 @@
 - 💻 **Skills:**  
   - MERN Stack (MongoDB, Express, React, Node.js)  
   - REST API Development, Scalable Architectures  
-  - Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Chakra UI  
+  - Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Chakra UI , Momentjs , GSAP
   - Other: Python, Java, Git, MySQL
 
 - 🎯 **Interests:**  
   - Building efficient, responsive full-stack applications  
-  - Writing clean, maintainable backend services  
-  - Exploring DevOps, Microservices & Kubernetes  
+  - Writing clean, maintainable backend services 
 
 - 🌱 **Currently Exploring:**  
-  - Advanced Express.js Patterns , Typescript
+  - Advanced Express.js Patterns , Typescript , Machine Learning
   - Microservices and Docker  
-  - Scalable Node.js & Cloud Deployments  
+  - Scalable Node.js, Cloud Deployments & DevOps 
 
 ## 💼 Professional Experience
 
