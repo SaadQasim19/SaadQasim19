@@ -37,7 +37,7 @@
 
 **Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,momentjs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
 
 </div>
 
