@@ -29,7 +29,7 @@
   
 **Frontend**
   
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,ts" />
 
 **Backend**
 
@@ -37,7 +37,7 @@
 
 **Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman,figma" />
 
 </div>
 
