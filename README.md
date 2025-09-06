@@ -33,11 +33,11 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql" />
 
 **Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman,figma" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman,figma,cpp,java" />
 
 </div>
 
