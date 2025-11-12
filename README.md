@@ -37,7 +37,7 @@
 
 **Other Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,solidity" />
 
 **Tools**
 
