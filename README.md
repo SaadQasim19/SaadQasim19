@@ -41,7 +41,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman,figma" />
+<img src="https://skillicons.dev/icons?i=linux,git,jest,github,vscode,docker,postman,figma" />
 
 </div>
 
