@@ -29,7 +29,7 @@
   
 **Frontend**
   
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,bootstrap,ts" />
 
 **Backend**
 
