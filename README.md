@@ -33,7 +33,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,laravel,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql" />
 
 **Other Languages**
 
