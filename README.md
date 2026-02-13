@@ -64,7 +64,7 @@
 - 💻 **Skills:**  
   - MERN Stack (MongoDB, Express, React, Node.js)  
   - REST API Development, Scalable Architectures  
-  - Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Chakra UI , Momentjs , GSAP
+  - Frontend: HTML5, CSS3, JavaScript, Next.Js
   - Other: Python, Java, Git, MySQL
 
 - 🎯 **Interests:**  
@@ -72,7 +72,7 @@
   - Writing clean, maintainable backend services 
 
 - 🌱 **Currently Exploring:**  
-  - Advanced Express.js Patterns , Typescript , Machine Learning
+  - Advanced Express.js Patterns , Typescript , Machine Learning , Blockchain development
   - Microservices and Docker  
   - Scalable Node.js, Cloud Deployments & DevOps 
 
@@ -90,7 +90,7 @@
 - Realtime Gemini Clone
 - Weather App Dashboard
 - SecureBanking System
-- Microfinance Shariah Compliant Web App ( underdevelopment ) 
+- Microfinance Shariah Compliant Web App ( testing phase )
 
 ## 📬 Connect With Me
 
