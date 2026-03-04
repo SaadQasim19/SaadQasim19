@@ -33,7 +33,12 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb,mysql,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql" />
+
+**DataBases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+
 
 **Other Languages**
 
