@@ -39,10 +39,14 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
 
+**Blockchain**
+
+<img src="https://skillicons.dev/icons?i=solidity" />
+
 
 **Other Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,solidity" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
 
 **Tools**
 
