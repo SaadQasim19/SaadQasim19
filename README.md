@@ -37,7 +37,7 @@
 
 **DataBases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,prisma" />
 
 **Blockchain**
 
