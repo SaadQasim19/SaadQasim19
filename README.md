@@ -73,7 +73,8 @@
 - 💻 **Skills:**  
   - MERN Stack (MongoDB, Express, React, Node.js)  
   - REST API Development, Scalable Architectures  
-  - Frontend: HTML5, CSS3, JavaScript, Next.Js
+  - Frontend:TypeScript, React.js ,Next.Js
+  - Backend: NodeJs , NestJs , ExpressJs
   - Other: Python, Java, Git, MySQL
 
 - 🎯 **Interests:**  
@@ -81,13 +82,11 @@
   - Writing clean, maintainable backend services 
 
 - 🌱 **Currently Exploring:**  
-  - Advanced Express.js Patterns , Typescript , Machine Learning , Blockchain development
-  - Microservices and Docker  
-  - Scalable Node.js, Cloud Deployments & DevOps 
+  - Machine Learning , Blockchain development
 
 ## 💼 Professional Experience
 
-- Full-stack Development using MERN Stack  
+- 2 years of Full-stack Development using MERN Stack  
 - Responsive UI/UX with modern frontend libraries  
 - REST APIs & Real-time features  
 - Scalable Backends with MongoDB,MySQL
@@ -104,7 +103,7 @@
 ## 📬 Connect With Me
 
 <p align="center"> 
-  <a href="mailto:m.saadqasim7665@gmail.com">
+  <a href="mailto:saad.merndev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SaadQasim19">
@@ -115,3 +114,4 @@
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+through+code+%F0%9F%92%BB;Open+for+collaborations+%F0%9F%92%AC;Let's+build+something+amazing+%F0%9F%9A%80;Innovation+meets+execution+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
