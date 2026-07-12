@@ -29,7 +29,7 @@
   
 **Frontend**
   
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,bootstrap,ts" />
+<img src="https://skillicons.dev/icons?i=javascript,ts,react,next,tailwind" />
 
 **Backend**
 
@@ -37,7 +37,7 @@
 
 **DataBases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
 
 **Blockchain**
 
@@ -46,7 +46,7 @@
 
 **Other Languages Familiar With**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,php,laravel" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,php,laravel,supabase," />
 
 **Tools**
 
@@ -98,7 +98,7 @@
 - Realtime Gemini Clone
 - Weather App Dashboard
 - SecureBanking System
-- Microfinance Shariah Compliant Web App ( testing phase )
+- Microfinance Shariah Compliant Web App
 
 ## 📬 Connect With Me
 
