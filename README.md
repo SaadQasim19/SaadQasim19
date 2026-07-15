@@ -44,13 +44,13 @@
 <img src="https://skillicons.dev/icons?i=solidity" />
 
 
-**Other Languages Familiar With**
+**Lang / Tools Familiar With**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,php,laravel,supabase," />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,php,laravel,supabase,firebase" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,git,jest,firebase,docker,redis,postman" />
+<img src="https://skillicons.dev/icons?i=linux,git,jest,docker,redis,postman" />
 
 </div>
 
