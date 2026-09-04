@@ -76,10 +76,6 @@
   - DevOps & Cloud (AWS, Docker, GitHub Actions CI/CD)
   - Databases (PostgreSQL, MongoDB, Prisma ORM, Redis)
 - 🎯 **Currently Focused On:** Architecting dApps and scalable MERN applications at Marfah Technologies.
-- 🏆 **Achievements:** 
-  - Ethereum Developer Degree (Senior Level) - LearnWeb3
-  - Web Development Hackathon Winner - COMSATS
-  - Open Source Contributor (Lottie-Web)
 - 🌱 **Learning & Exploring:** Advanced Decentralized Application Architectures & DeFi protocols.
 
 ## 💼 Professional Experience
@@ -96,7 +92,11 @@
 - **Car Rental Marketplace:** Type-safe Next.js platform with PostgreSQL, Prisma, and automated payment gateways.
 - **Shariah-Compliant Microfinance App:** MERN stack platform handling Murabaha/Ijarah models with AWS S3 encryption.
 - **Secure Banking Portal:** Real-time dashboard fortified with TOTP Multi-Factor Authentication and JWT logic.
-
+## 🏆 Achievements
+  - Ethereum Developer Degree (Senior Level) - LearnWeb3
+  - Smart Contract Security - Cyfrin Updraft
+  - Web Development Hackathon Winner - COMSATS 🏆
+  - Open Source Contributor (Lottie-Web)
 ## 📬 Connect With Me
 
 <p align="center"> 
