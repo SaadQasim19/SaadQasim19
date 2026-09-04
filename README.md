@@ -70,35 +70,32 @@
 
 ## 🚀 About Me
 
-- 💻 **Skills:**  
-  - MERN Stack (MongoDB, Express, React, Node.js)  
-  - REST API Development, Scalable Architectures  
-  - Frontend:TypeScript, React.js ,Next.Js
-  - Backend: NodeJs , NestJs , ExpressJs
-  - Other: Python, Java, Git, MySQL
-
-- 🎯 **Interests:**  
-  - Building efficient, responsive full-stack applications  
-  - Writing clean, maintainable backend services 
-
-- 🌱 **Currently Exploring:**  
-  - Machine Learning , Blockchain development
+- 💻 **Skills:**
+  - Full Stack (React, Next.js, Node.js, Express, NestJS)
+  - Web3 & Smart Contracts (Solidity, Ethereum, Hardhat, Web3.js)
+  - DevOps & Cloud (AWS, Docker, GitHub Actions CI/CD)
+  - Databases (PostgreSQL, MongoDB, Prisma ORM, Redis)
+- 🎯 **Currently Focused On:** Architecting dApps and scalable MERN applications at Marfah Technologies.
+- 🏆 **Achievements:** 
+  - Ethereum Developer Degree (Senior Level) - LearnWeb3
+  - Web Development Hackathon Winner - COMSATS
+  - Open Source Contributor (Lottie-Web)
+- 🌱 **Learning & Exploring:** Advanced Decentralized Application Architectures & DeFi protocols.
 
 ## 💼 Professional Experience
 
-- 2 years of Full-stack Development using MERN Stack  
-- Responsive UI/UX with modern frontend libraries  
-- REST APIs & Real-time features  
-- Scalable Backends with MongoDB,MySQL
+- **Full Stack Developer** @ Marfah Technologies *(Jan 2025 - Present)*
+- **Web3 Developer Intern** @ Dafi Labs *(June 2026 - Aug 2026)*
+- **Freelance Full Stack Developer** *(Nov 2022 - Present)*
+- *Delivered 9+ production software projects with 100% on-time completion.*
 
 ## 🌟 Featured Projects
 
-- E-Commerce MERN Web App  
-- Prayer-Times MERN Web App
-- Realtime Gemini Clone
-- Weather App Dashboard
-- SecureBanking System
-- Microfinance Shariah Compliant Web App
+- **ERC-721 NFT Marketplace:** Fully decentralized Web3 app on Ethereum for minting/trading assets via IPFS.
+- **Decentralized Product Authenticity Tracker:** Trustless supply chain verification system using Solidity and React.
+- **Car Rental Marketplace:** Type-safe Next.js platform with PostgreSQL, Prisma, and automated payment gateways.
+- **Shariah-Compliant Microfinance App:** MERN stack platform handling Murabaha/Ijarah models with AWS S3 encryption.
+- **Secure Banking Portal:** Real-time dashboard fortified with TOTP Multi-Factor Authentication and JWT logic.
 
 ## 📬 Connect With Me
 
