@@ -1,3 +1,8 @@
+
+
+
+
+
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+Qasim;Web+Developer;MERN+Stack+Specialist;Backend+Contributor" alt="Typing SVG" />
@@ -28,29 +33,49 @@
 <div align="center">
   
 **Frontend**
-  
-<img src="https://skillicons.dev/icons?i=javascript,ts,react,next,tailwind" />
+
+<p align="center">
+  <img src="https://stackglow.vercel.app/api/icons?i=html%2Ccss%2Cjavascript%2Ctypescript%2Creact" height="67" alt="My Tech Stack" />
+</p>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql" />
+<p align="center">
+ 
+<img src="https://stackglow.vercel.app/api/icons?i=node%2Cexpress%2Cnest%2Cgraphql%2Cprisma" height="67" alt="My Tech Stack" />
+</p>
 
 **DataBases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
+<p align="center">
+ 
+<img src="https://stackglow.vercel.app/api/icons?i=mongo%2Cpostgres%2Cpostman" height="67" alt="My Tech Stack" />
+
+</p>
 
 **Blockchain**
 
-<img src="https://skillicons.dev/icons?i=solidity" />
+<p align="center">
 
+<img src="https://stackglow.vercel.app/api/icons?i=solidity%2Chardhat" height="67" alt="My Tech Stack" />
+
+</p>
 
 **Lang / Tools Familiar With**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,php,laravel,supabase,firebase" />
+<p align="center">
+
+<img src="https://stackglow.vercel.app/api/icons?i=python%2Cjava%2Cphp%2Claravel%2Cfirebase%2Cjquery%2Crust" height="67" alt="My Tech Stack" />
+ 
+</p>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,git,jest,docker,redis,postman" />
+<p align="center">
+
+<img src="https://stackglow.vercel.app/api/icons?i=postman%2Clinuxoriginal%2Cjest%2Cdocker" height="67" alt="My Tech Stack" />
+  
+</p>
 
 </div>
 
@@ -70,33 +95,36 @@
 
 ## 🚀 About Me
 
-- 💻 **Skills:**
-  - Full Stack (React, Next.js, Node.js, Express, NestJS)
-  - Web3 & Smart Contracts (Solidity, Ethereum, Hardhat, Web3.js)
-  - DevOps & Cloud (AWS, Docker, GitHub Actions CI/CD)
-  - Databases (PostgreSQL, MongoDB, Prisma ORM, Redis)
-- 🎯 **Currently Focused On:** Architecting dApps and scalable MERN applications at Marfah Technologies.
-- 🌱 **Learning & Exploring:** Advanced Decentralized Application Architectures & DeFi protocols.
+- 💻 **Skills:**  
+  - MERN Stack (MongoDB, Express, React, Node.js)  
+  - REST API Development, Scalable Architectures  
+  - Frontend: TypeScript, React.js, Next.js
+  - Backend: Node.js, NestJS, Express.js
+  - Other: Python, Java, Git, MySQL
+
+- 🎯 **Interests:**  
+  - Building efficient, responsive full-stack applications  
+  - Writing clean, maintainable backend services 
+
+- 🌱 **Currently Exploring:**  
+  - Machine Learning, Blockchain development
 
 ## 💼 Professional Experience
 
-- **Full Stack Developer** @ Marfah Technologies *(Jan 2025 - Present)*
-- **Web3 Developer Intern** @ Dafi Labs *(June 2026 - Aug 2026)*
-- **Freelance Full Stack Developer** *(Nov 2022 - Present)*
-- *Delivered 9+ production software projects with 100% on-time completion.*
+- 2 years of Full-stack Development using MERN Stack  
+- Responsive UI/UX with modern frontend libraries  
+- REST APIs & Real-time features  
+- Scalable Backends with MongoDB, MySQL
 
 ## 🌟 Featured Projects
 
-- **ERC-721 NFT Marketplace:** Fully decentralized Web3 app on Ethereum for minting/trading assets via IPFS.
-- **Decentralized Product Authenticity Tracker:** Trustless supply chain verification system using Solidity and React.
-- **Car Rental Marketplace:** Type-safe Next.js platform with PostgreSQL, Prisma, and automated payment gateways.
-- **Shariah-Compliant Microfinance App:** MERN stack platform handling Murabaha/Ijarah models with AWS S3 encryption.
-- **Secure Banking Portal:** Real-time dashboard fortified with TOTP Multi-Factor Authentication and JWT logic.
-## 🏆 Achievements
-  - Ethereum Developer Degree (Senior Level) - LearnWeb3
-  - Smart Contract Security - Cyfrin Updraft
-  - Web Development Hackathon Winner - COMSATS 🏆
-  - Open Source Contributor (Lottie-Web)
+- E-Commerce MERN Web App  
+- Prayer-Times MERN Web App
+- Realtime Gemini Clone
+- Weather App Dashboard
+- SecureBanking System
+- Microfinance Shariah Compliant Web App
+
 ## 📬 Connect With Me
 
 <p align="center"> 
@@ -111,4 +139,3 @@
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+through+code+%F0%9F%92%BB;Open+for+collaborations+%F0%9F%92%AC;Let's+build+something+amazing+%F0%9F%9A%80;Innovation+meets+execution+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
